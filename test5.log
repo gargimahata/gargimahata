@@ -1,0 +1,11 @@
+INFO 2022-06-29 22:24:13,127 root I am trying to read a file)
+CRITICAL 2022-06-29 22:24:13,127 root this is critical)
+ERROR 2022-06-29 22:24:13,127 root [Errno 2] No such file or directory: 'sudh.txt')
+INFO 2022-06-29 22:26:22,549 root I am trying to read a file)
+CRITICAL 2022-06-29 22:26:22,549 root this is critical)
+ERROR 2022-06-29 22:26:22,549 root [Errno 2] No such file or directory: 'sudh.txt')
+ERROR 2022-06-29 22:26:22,550 root [Errno 2] No such file or directory: 'sudh.txt')
+Traceback (most recent call last):
+  File "/Users/fugu/Desktop/Code/Python/logging_29_06_22/test5.py", line 7, in <module>
+    with open('sudh.txt','r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'sudh.txt'

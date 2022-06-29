@@ -1,0 +1,43 @@
+INFO:root:this in my very first code for logging
+INFO:root:this in my very first code for logging
+INFO:root:2
+INFO:root:this in my very first code for logging
+INFO:root:[1, 2, 3, 4, 5, 667, 7]
+INFO:root:this in my very first code for logging
+WARNING:root:this will try to load warning message
+INFO:root:[1, 2, 3, 4, 5, 667, 7]
+INFO:root:this in my very first code for logging
+WARNING:root:this will try to load warning message
+ERROR:root:this ia an error msg from system
+INFO:root:[1, 2, 3, 4, 5, 667, 7]
+WARNING:root:this si a warning for user that they have found 2 in list
+INFO:root:this in my very first code for logging
+WARNING:root:this will try to load warning message
+ERROR:root:this ia an error msg from system
+INFO:root:[1, 2, 3, 4, 5, 667, 7]
+WARNING:root:this is a warning for user that they have found 2 in list
+INFO:root:this in my very first code for logging
+WARNING:root:this will try to load warning message
+ERROR:root:this ia an error msg from system
+INFO:root:[1, 2, 3, 4, 5, 667, 7]
+WARNING:root:this is a warning for user that they have found 2 in list
+INFO:root:this in my very first code for logging
+WARNING:root:this will try to load warning message
+ERROR:root:this ia an error msg from system
+INFO:root:[1, 2, 3, 4, 5, 667, 7]
+WARNING:root:this is a warning for user that they have found 2 in list
+INFO:root:this in my very first code for logging
+WARNING:root:this will try to load warning message
+ERROR:root:this ia an error msg from system
+INFO:root:[1, 2, 3, 4, 5, 667, 7]
+WARNING:root:this is a warning for user that they have found 2 in list
+INFO:root:this in my very first code for logging
+WARNING:root:this will try to load warning message
+ERROR:root:this ia an error msg from system
+INFO:root:[1, 2, 3, 4, 5, 667, 7]
+WARNING:root:this is a warning for user that they have found 2 in list
+INFO:root:this in my very first code for logging
+WARNING:root:this will try to load warning message
+ERROR:root:this ia an error msg from system
+INFO:root:[1, 2, 3, 4, 5, 667, 7]
+WARNING:root:this is a warning for user that they have found 2 in list

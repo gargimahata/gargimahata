@@ -1,0 +1,15 @@
+INFO 2022-06-29 22:16:51,981 root number entered by used is 3 and 0)
+INFO 2022-06-29 22:16:51,983 root we are into function.)
+ERROR 2022-06-29 22:16:51,983 root division by zero)
+Traceback (most recent call last):
+  File "/Users/fugu/Desktop/Code/Python/logging_29_06_22/test3.py", line 10, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+ERROR 2022-06-29 22:17:24,311 root division by zero)
+Traceback (most recent call last):
+  File "/Users/fugu/Desktop/Code/Python/logging_29_06_22/test3.py", line 10, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2022-06-29 22:23:50,298 root I am trying to read a file)
+CRITICAL 2022-06-29 22:23:50,300 root this is critical)
+ERROR 2022-06-29 22:23:50,300 root [Errno 2] No such file or directory: 'sudh.txt')
